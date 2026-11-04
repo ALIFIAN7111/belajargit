@@ -1,6 +1,4 @@
 Warmindo Resolusi
-Menginstal Laravel
-Login Di Laravel
 Membuat akun admin & user di laravel
 Menentukan nama projcet yang akan di buat
 Nama projcet Warmindo Smoky
